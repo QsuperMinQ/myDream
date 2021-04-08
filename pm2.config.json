@@ -1,0 +1,9 @@
+{
+    "apps": [
+        {
+            "name": "Dream",
+            "script": "npm",
+            "args": "start"
+        }
+    ]
+}
